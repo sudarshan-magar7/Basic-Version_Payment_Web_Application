@@ -1,4 +1,9 @@
+// import { useSearchParams } from 'react-router-dom';
+
 // export const SendMoney = () => {
+//     const [searchParams] = useSearchParams();
+//     const name=searchParams.get('user');
+//     const id
 //     return <div className="flex justify-center h-screen bg-gray-100">
 //         <div className="h-full flex flex-col justify-center">
 //             <div

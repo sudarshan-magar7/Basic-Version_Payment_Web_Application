@@ -1,6 +1,6 @@
-## Build a basic version of PayTM
+## Build a basic version of PayMent Web Application
 
-This project is a **Build a basic version of PayTM** built with a **React.js frontend** and a **Node.js backend**. The backend uses **MongoDb** as the database. The app enables users to manage online payment-related tasks such as user sign-up, sign-in, balance checks, money transfers, and user updates.
+This project is a **Build a basic version of PayMent Web Application** built with a **React.js frontend** and a **Node.js backend**. The backend uses **MongoDb** as the database. The app enables users to manage online payment-related tasks such as user sign-up, sign-in, balance checks, money transfers, and user updates.
 
 ## Technologies Used
 

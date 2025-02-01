@@ -2,7 +2,7 @@ const mongoose=require('mongoose');
 const bcrypt=require('bcrypt');
 const connection=async ()=>{
     try{
-        await mongoose.connect('mongodb+srv://magarsudarshan77:1ZbOtYE0Sn8dB5Fb@cluster0.derb2.mongodb.net/paytm');
+        await mongoose.connect();
         console.log("DataBase Connection Successfully...")
     }catch(error){
         console.log("DataBase Connection:",error)
